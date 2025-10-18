@@ -57,22 +57,20 @@
 ---
 
 ### <img src="https://github.com/sudostealth/LogosANDGifs/blob/main/languageee.gif?raw=true" width="30"/> Programming Weapons
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,html,css,bash&theme=dark" height="50" />
-
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,&theme=light" width="540" />
+  <img src="https://skillicons.dev/icons?i=js,bash,html,css,php&theme=light" width="540" />
 </div>
 
 ---
 
 ### ⚙️ Infrastructure & Environments
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg" height="50"/>
+<div align="left">
+<img src="https://skillicons.dev/icons?i=django,mysql,supabse&theme=light" width="340" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,matlab,notion&theme=light" width="540" />
+  <br>
+<img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,windows&theme=light" width="540" />
 
 </div>
 
@@ -85,8 +83,10 @@
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='60'></a>
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='60'></a>
 <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='55'></a>
-
-![](https://github-profile-trophy.vercel.app/?username=sudostealth&theme=onestar&margin-w=6&no-frame=true&column=4)
+</div>
+<div align="left">
+  
+![](https://github-profile-trophy.vercel.app/?username=sudostealth&theme=onestar&margin-w=6&no-frame=true&column=8)
 
 </div>
 
@@ -155,6 +155,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudostealth&theme=redical&area=true&hide_border=true" width="100%"/>
 <img src="https://ghchart.rshah.org/FF0000/sudostealth" width="100%"/>
 
+
 </div>
 
 ---
@@ -164,3 +165,5 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=FF0000&background=00000000&center=true&vCenter=true&width=900&lines=⚡+TRUST+NO+ONE,+EXPLOIT+EVERYTHING+⚡;🔥+THE+RED+TEAM+NEVER+SLEEPS+🔥;🩸+HACK+THE+PLANET+🩸;💀+STAY+ANONYMOUS,+STAY+POWERFUL+💀" alt="Footer Typing">
 
 </div>
+
+
