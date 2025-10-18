@@ -42,9 +42,11 @@
 </td></tr>
 </table>
 
+
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
----
+
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" /> OFFENSIVE SECURITY ARSENAL
 
@@ -101,9 +103,12 @@
 
 </div>
 
+
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
----
+
+
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="40"/> Programming Weapons
 
@@ -115,9 +120,13 @@
 
 </div>
 
+
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
----
+
+
+
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="35"/> Infrastructure & Environments
 
@@ -129,9 +138,13 @@
 
 </div>
 
+
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
----
+
+
+
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="40" /> Red Team Certifications & GitHub Achievements
 
@@ -148,9 +161,12 @@
 
 </div>
 
+
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
----
+
+
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122003-5358d27c-e1f1-4a1c-8c1e-7bb4e5e7e7c5.png" width="40" /> Cyber Intelligence Dashboard
 
@@ -168,11 +184,14 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudostealth&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=false&border_radius=15&area_color=ff0000" width="98%"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 </div>
 
----
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="40" /> Training Grounds & Battle Stats
 
@@ -197,17 +216,28 @@
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-### <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="40"/> Contribution Heatmap
-
-<img src="https://ghchart.rshah.org/ff0000/sudostealth" width="100%"/>
 
 </div>
 
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
----
+
+
+<div align="left">
+  
+## <img src="https://user-images.githubusercontent.com/74038190/216122003-5358d27c-e1f1-4a1c-8c1e-7bb4e5e7e7c5.png" width="40" /> Snake Eating My Contributions
+
+![Snake animation](https://raw.githubusercontent.com/sudostealth/sudostealth/output/github-snake-dark.svg)
+
+</div>
+
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+
+
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40" /> Social Recon & Communication Channels
 
@@ -229,11 +259,15 @@
   <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="80"/>
 </a>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 </div>
 
----
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+
+
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="40" /> Coding Battlegrounds
 
@@ -270,21 +304,10 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
----
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122003-5358d27c-e1f1-4a1c-8c1e-7bb4e5e7e7c5.png" width="40" /> Snake Eating My Contributions
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/sudostealth/sudostealth/output/github-snake-dark.svg)
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
----
 
 <div align="center">
 
