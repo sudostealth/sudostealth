@@ -1,16 +1,35 @@
-<div align="center">
 
-# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />  
-# **RED TEAM MATRIX - MD. SAZIB** 
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+  <div align="center">
+    <img width="700" src="https://raw.githubusercontent.com/username/some-gist-id/raw/terminal-header.png" alt="Terminal Header">
+  </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=300&section=header&text=MD.%20SAZIB&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=🩸%20Red%20Team%20Operator%20|%20Ethical%20Hacker%20🩸&descAlign=center&descSize=20"/>
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=4000&color=00FF88&center=true&vCenter=true&width=600&lines=%24+whoami" alt="Terminal Command" />
+  </h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2000&pause=800&color=FF0000&background=00000000&center=true&vCenter=true&repeat=true&width=900&lines=🔥+RED+TEAM+PROTOCOL+INITIALIZED+🔥;💀+MD.+SAZIB+-+OFFENSIVE+SECURITY+💀;⚡+ADVANCED+PENETRATION+TESTING+⚡;🔍+MALWARE+ANALYSIS+%7C+THREAT+INTEL+🔍;🩸+HACK+THE+PLANET+ETHICALLY+🩸;⚔️+EXPLOITING+VULNERABILITIES+⚔️;🎯+ZERO-DAY+HUNTER+🎯;🔓+BREAKING+SYSTEMS+LEGALLY+🔓" alt="Red Team Typing">
+  <h2>
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=1000&pause=1000&color=FFFF00&center=true&vCenter=true&repeat=false&width=600&height=60&lines=MD.+SAZIB" alt="Name" />
+  </h2>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00CCFF&center=true&vCenter=true&width=500&lines=Role+++++++%3A+Red+Team+Operator;Status++++%3A+%E2%97%8F+ACTIVE;User+++++++%3A+sudostealththis;Timestamp+%3A+2025-10-20+06%3A06%3A57+UTC" alt="System Info" />
 
-</div>
+  <br>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=500&color=00FF88&center=true&vCenter=true&width=500&lines=%24+sudo+access_portfolio;%E2%86%92+Permission+granted+%E2%9C%93" alt="Access Granted" />
+
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=750&color=00FF88&center=true&vCenter=true&width=25&height=25&lines=%24;_" alt="Cursor" />
+  </h3>
+
+<br><br>
+
+
+
+
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
 
 ---
 
