@@ -52,52 +52,6 @@
 
 <div align="center">
 
-<table>
-<tr>
-  <td align="center" width="140">
-    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100"/>
-    <br><sub><b>Kali Linux</b></sub>
-  </td>
-  <td align="center" width="140">
-    <img src="https://user-images.githubusercontent.com/74038190/235294015-47cd93d5-0877-4a9c-82c0-c37c279e7c92.gif" width="100"/>
-    <br><sub><b>Metasploit</b></sub>
-  </td>
-  <td align="center" width="140">
-    <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="100"/>
-    <br><sub><b>Burp Suite</b></sub>
-  </td>
-  <td align="center" width="140">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"/>
-    <br><sub><b>Wireshark</b></sub>
-  </td>
-  <td align="center" width="140">
-    <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="100"/>
-    <br><sub><b>Nmap</b></sub>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="140">
-    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100"/>
-    <br><sub><b>OWASP ZAP</b></sub>
-  </td>
-  <td align="center" width="140">
-    <img src="https://user-images.githubusercontent.com/74038190/235294009-5dd33b5c-cf0f-4e1d-8c1e-7bb4e5e7e7c5.gif" width="100"/>
-    <br><sub><b>John Ripper</b></sub>
-  </td>
-  <td align="center" width="140">
-    <img src="https://user-images.githubusercontent.com/74038190/235294003-cf5f3e8e-0b0f-4d5e-9b3f-9c9f6b0f9b0f.gif" width="100"/>
-    <br><sub><b>Hashcat</b></sub>
-  </td>
-  <td align="center" width="140">
-    <img src="https://user-images.githubusercontent.com/74038190/235294004-7b8e4c0a-e5e0-4c4c-8c4f-9c9f6b0f9b0f.gif" width="100"/>
-    <br><sub><b>SQLMap</b></sub>
-  </td>
-  <td align="center" width="140">
-    <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="100"/>
-    <br><sub><b>Nikto</b></sub>
-  </td>
-</tr>
-</table>
 
 </div>
 
@@ -174,7 +128,7 @@
 
 
 <!-- GitHub Profile Trophy -->
-![](https://github-profile-trophy.vercel.app/?username=sudostealth&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7&rank=-C,-B)
+<img src="https://github-profile-trophy.vercel.app?username=sudostealth&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 
 </div>
 
