@@ -240,7 +240,7 @@
 ## 👾 GitHub Contribution Graph Pacman
 
 <div align="left">
-  <img src="https://github.com/sudostealthi/sudostealthi/raw/output/pacman-contribution-graph.svg" alt="Pacman GitHub Contribution Graph" width="100%">
+  <img src="https://github.com/sudostealth/sudostealth/raw/output/pacman-contribution-graph.svg" alt="Pacman GitHub Contribution Graph" width="100%">
 </div>
 
 
