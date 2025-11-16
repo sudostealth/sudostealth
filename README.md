@@ -148,21 +148,6 @@
 
 ---
 
-## 💻 CODING BATTLEGROUNDS
-
-<div align="center">
-
-| Platform | Profile Link |
-| :---: | :---: |
-| **Codeforces** | <a href="https://codeforces.com/profile/runcode42" target="_blank">runcode42</a> |
-| **CodeChef** | <a href="https://www.codechef.com/users/runcode42" target="_blank">runcode42</a> |
-| **LeetCode** | <a href="https://leetcode.com/runcode42" target="_blank">runcode42</a> |
-| **TopCoder** | <a href="https://www.topcoder.com/members/runcode42" target="_blank">runcode42</a> |
-
-</div>
-
-<br>
-
 ### Contributor Stats
 
 <div align="center">
