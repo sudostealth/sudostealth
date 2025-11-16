@@ -128,7 +128,7 @@
 
   <br><br>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudostealth&bg_color=111827&color=FF80A2&line=FF80A2&point=FFFFFF&area=true&hide_border=true&border_radius=5&area_color=FF80A2" width="98%" alt="Activity Graph"/>
+
 
 </div>
 
@@ -136,25 +136,25 @@
 
 ## 🐍 GitHub Contributions
 
+<div align="left">
+  <img src="https://github-contributor-stats.vercel.app/api?username=sudostealth&limit=5&theme=dracula&combine_all_yearly_contributions=true&hide_border=true&border_radius=5&bg_color=111827&title_color=FF80A2&text_color=FFFFFF" width="45%" alt="Contributor Stats"/>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudostealth&bg_color=111827&color=FF80A2&line=FF80A2&point=FFFFFF&area=true&hide_border=true&border_radius=5&area_color=FF80A2" width="53%" alt="Activity Graph"/>
+</div>
+
+ 
+
 <div align="center">
-  <h3>Snake Eating Contributions</h3>
-  <img src="https://raw.githubusercontent.com/sudostealth/sudostealth/output/github-snake-dark.svg" alt="Snake animation" width="90%"/>
+
+  <img src="https://raw.githubusercontent.com/sudostealth/sudostealth/output/github-snake-dark.svg" alt="Snake animation" width="100%"/>
 </div>
 
 <div align="center">
-  <h3>Pacman Contribution Graph</h3>
-  <img src="https://github.com/sudostealth/sudostealth/raw/output/pacman-contribution-graph.svg" alt="Pacman GitHub Contribution Graph" width="90%">
+
+  <img src="https://github.com/sudostealth/sudostealth/raw/output/pacman-contribution-graph.svg" alt="Pacman GitHub Contribution Graph" width="100%">
 </div>
 
 ---
 
-### Contributor Stats
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sudostealth&limit=5&theme=dracula&combine_all_yearly_contributions=true&hide_border=true&border_radius=5&bg_color=111827&title_color=FF80A2&text_color=FFFFFF" width="100%" alt="Contributor Stats"/>
-</div>
-
----
 
 ## 💬 SOCIAL RECON & COMMUNICATION
 
