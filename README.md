@@ -1,3 +1,5 @@
+![GitSkins Animated Hero](https://www.gitskins.com/api/section/hero?username=sudostealth&theme=github-dark&style=aura)
+
 <picture>
 <source media="(prefers-color-scheme: dark)"
 srcset="https://raw.githubusercontent.com/sudostealth/sudostealth/main/dark.svg">
@@ -109,9 +111,15 @@ light.svg">
 
 </div>
 
+![GitSkins Animated Stats](https://www.gitskins.com/api/section/stats?username=sudostealth&theme=github-dark&style=aura)
+
+![GitSkins Animated Projects](https://www.gitskins.com/api/section/projects?username=sudostealth&theme=github-dark&style=aura)
+
 ---
 
 ## 🐍 GitHub Contributions
+
+![GitSkins Animated Heatmap](https://www.gitskins.com/api/section/heatmap?username=sudostealth&theme=github-dark&style=aura)
 
 <div align="center">
   <picture>
@@ -149,6 +157,9 @@ light.svg">
 
 </div>
 
+![GitSkins Animated Social Row](https://www.gitskins.com/api/section/social?username=sudostealth&theme=github-dark&style=aura)
+
+![GitSkins Animated Highlights](https://www.gitskins.com/api/section/highlights?username=sudostealth&theme=github-dark&style=aura)
 ---
 
 <div align="center">
