@@ -32,6 +32,8 @@ light.svg">
 
 <br>
 
+![GitSkins Animated Stats](https://www.gitskins.com/api/section/stats?username=sudostealth&theme=github-dark&style=aura)
+
 ### 🎯 Mission Briefing
 
 | Category | Details |
@@ -111,7 +113,7 @@ light.svg">
 
 </div>
 
-![GitSkins Animated Stats](https://www.gitskins.com/api/section/stats?username=sudostealth&theme=github-dark&style=aura)
+![GitSkins Animated Stack](https://www.gitskins.com/api/section/stack?username=sudostealth&theme=github-dark&style=aura)
 
 ![GitSkins Animated Projects](https://www.gitskins.com/api/section/projects?username=sudostealth&theme=github-dark&style=aura)
 
