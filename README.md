@@ -1,3 +1,12 @@
+<picture>
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/sudostealth/sudostealth/main/dark.svg">
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/sudostealth/sudostealth/main/light.svg">
+<img alt="MD. SAZIB" src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/
+light.svg">
+</picture>
+
 <div align="center">
   
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=45&duration=1000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=false&width=600&height=70&lines=MD.+SAZIB" alt="MD. SAZIB Typing" />
